@@ -38,3 +38,5 @@ py verify.py matrixA.txt matrixB.txt result.txt
 ## Выходной файл
 
 - `result.txt` — создаётся при запуске
+
+<img width="1454" height="959" alt="image" src="https://github.com/user-attachments/assets/4e9320a1-161e-4acb-ad34-0a7d8199a227" />
